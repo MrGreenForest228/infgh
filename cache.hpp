@@ -42,7 +42,6 @@ template <typename T, typename KeyT = int> struct cache_t {
       return false;
     }
 
-    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     auto eltit = hit->second;
     if (eltit != cache_.begin())
       cache_.splice(cache_.begin(), cache_, eltit, std::next(eltit));
