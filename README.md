@@ -29,7 +29,7 @@ Pre-build binaries of this project are not available. To use LRU cache build it 
 
 # Get involved
 
-In order to join our team, contact [me](https://github.com/MrGreenForest228). I'll add you to contributors of our <i>private</i> repo.
+In order to join our team, contact [me](https://github.com/MrGreenForest228).
 
 # Build
 
